@@ -1,6 +1,6 @@
 # Spring Boot deployment using container based deployment (using Docker)
 
-Shows how to deploy the Spring boot app in a container based deployment framework using Dcoker. Here added Docker file in the project file. After downloading run the below command using docker.
+Shows how to deploy the Spring boot app in a container based deployment framework using Docker. Here added Docker file in the project file. After downloading run the below command using docker.
 
 Build a Docker image
 ```sh
